@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "postinstall": "cd client && npm install"
+  }
+}
+{
   "name": "client",
   "private": true,
   "devDependencies": {
